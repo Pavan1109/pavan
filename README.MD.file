@@ -1,0 +1,5 @@
+After running the code in python we will getting a GUI window with the options to login and creating account
+First we will be creating an account using a email id and password.
+So that next timewe can login into that account.
+After created we can confirm with successful account created message.
+After logging in we can see a window with contact name, phone number, mail id with a save option to save contacts.
